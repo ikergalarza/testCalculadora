@@ -1,6 +1,6 @@
 package operaciones;
 
-public class myOperaciones {
+public class MyDivision {
 
     public static int division(int n, int d)
     {
