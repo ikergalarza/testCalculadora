@@ -18,7 +18,7 @@ public class MyDivisionTest {
         List<Object[]> o= new ArrayList<>();
         o.add(new Object[] {2,0});
         o.add(new Object[] {1,0});
-        o.add(new Object[] {1,1});
+        o.add(new Object[] {0,0});
         return o;
     }
     private  int n;
